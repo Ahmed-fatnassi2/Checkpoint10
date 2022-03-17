@@ -1,0 +1,13 @@
+h1 {
+    font-family: "Times New Roman";
+    color: rgb(49, 49, 131);
+}
+.list {
+    list-style-type: circle;
+}
+.body {
+    background: linear-gradient(rgb(116, 217, 235), rgb(255, 255, 255));
+    color: rgb(40, 1, 71);
+    font-family: "Segoe UI";
+    font-size: 20px;
+}
